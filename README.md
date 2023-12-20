@@ -31,7 +31,7 @@ The crawler actively monitors keywords associated with illegal activities (such 
 
 ### 4. Trend Analytics of Illegal Activities
 
--Gain valuable insights into trending dark web activities. By entering a keyword (e.g., "Drugs"), our tool reveals the most popular dark web sites related to the query, helping users stay ahead of emerging threats.
+- Gain valuable insights into trending dark web activities. By entering a keyword (e.g., "Drugs"), our tool reveals the most popular dark web sites related to the query, helping users stay ahead of emerging threats.
 
 ### 5. Automated OSINT and Recon on Target Dark Webs
 
